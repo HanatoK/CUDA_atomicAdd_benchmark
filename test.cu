@@ -1,5 +1,5 @@
 /*
- * RTX 3060: nvcc -O2 -gencode=arch=compute_80,code=sm_80 -ccbin /usr/bin/g++-12 ./test.cu
+ * RTX 3060: nvcc -O2 -gencode=arch=compute_86,code=sm_86 -ccbin /usr/bin/g++-12 ./test.cu
  */
 
 #include <vector>
